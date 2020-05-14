@@ -34,3 +34,7 @@ Funcionamento traccar
 References
 
 https://www.cyberciti.biz/faq/howto-set-date-time-from-linux-command-prompt/
+
+https://www.networkinghowtos.com/howto/adding-persistent-static-routes-on-ubuntu-18-04-and-higher-using-netplan/
+
+
