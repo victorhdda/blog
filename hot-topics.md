@@ -22,6 +22,8 @@ Programas iniciais para uma instalação linux
 - ethtool
 - registar data e hora no histórico do terminar: echo 'export HISTTIMEFORMAT="%d/%m/%y %T "' >> ~/.bash_profile
 - ansible
+- speedtest-cli
+- 
 
 
 Funcionamento traccar
