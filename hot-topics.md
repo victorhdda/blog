@@ -25,5 +25,7 @@ Programas iniciais para uma instalação linux
 - speedtest-cli
 - 
 
+# timedatectl set-timezone 'America/Sao_Paulo'
+
 
 Funcionamento traccar
