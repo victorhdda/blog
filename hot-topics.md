@@ -29,3 +29,8 @@ sudo timedatectl set-timezone 'America/Sao_Paulo'
 
 
 Funcionamento traccar
+
+
+References
+
+https://www.cyberciti.biz/faq/howto-set-date-time-from-linux-command-prompt/
