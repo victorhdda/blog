@@ -11,11 +11,19 @@ IFMG4.0
 Como funciona um serviço de DNS
 
 Programas iniciais para uma instalação linux
+- Alterar visudo user ALL=(ALL) NOPASSWD:ALL
 - Nmap
-- Iperf
+- Iperf3
 - git
 - htop
 - aptitude
-- Funcionamento traccar
+- screen 
+- dnsutils 
+- ethtool
+- registar data e hora no histórico do terminar: echo 'export HISTTIMEFORMAT="%d/%m/%y %T "' >> ~/.bash_profile
+- ansible
+
+
+Funcionamento traccar
 
 
