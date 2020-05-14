@@ -34,13 +34,18 @@ Programas iniciais para uma instalação linux
 - registar data e hora no histórico do terminar: echo 'export HISTTIMEFORMAT="%d/%m/%y %T "' >> ~/.bash_profile
 - ansible
 - speedtest-cli
-- 
+- zabbix (config:  vim /etc/zabbix/zabbix_agentd.conf (Server=IP address of Zabbix Server)  (Hostname=Hostname of client PC) (systemctl restart zabbix-agent) (systemctl enable zabbix-agent) (systemctl status zabbix-agent)
+- vnstat: vnstat -l -i eth0
+
 
 sudo timedatectl set-timezone 'America/Sao_Paulo'
 
 
 Funcionamento traccar
 
+Algum banco de dados
+
+Wordpress como blog/página web/CMS
 
 References
 
@@ -48,4 +53,6 @@ https://www.cyberciti.biz/faq/howto-set-date-time-from-linux-command-prompt/
 
 https://www.networkinghowtos.com/howto/adding-persistent-static-routes-on-ubuntu-18-04-and-higher-using-netplan/
 
+https://cloudcone.com/docs/how-to-install-zabbix-agent-on-centos-7-and-ubuntu-18-04/
 
+https://www.binarytides.com/linux-commands-monitor-network/
