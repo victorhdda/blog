@@ -14,5 +14,7 @@ Programas iniciais para uma instalação linux
 - Nmap
 - Iperf
 - git
+- htop
+- aptitude
 
 
