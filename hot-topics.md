@@ -1,3 +1,7 @@
+Implementações
+- NMAP que varre a rede para verificar conectividade, escaneia alguns hosts ou redes, retorna relatórios de sucesso/falha
+
+
 Uso simplificado do GIT
 - https://www.youtube.com/watch?v=2alg7MQ6_sI
 - https://www.youtube.com/watch?v=UbJLOn1PAKw
