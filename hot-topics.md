@@ -1,4 +1,15 @@
 Uso simplificado do GIT
+- https://www.youtube.com/watch?v=2alg7MQ6_sI
+- https://www.youtube.com/watch?v=UbJLOn1PAKw
+- https://medium.com/@tordable/github-pages-as-blogging-platform-320524b1fffa
+
+Uso do cron
+- https://crontab.guru/#*_*_*_*_*
+- https://opensource.com/article/17/11/how-use-cron-linux
+
+Shell script
+- https://www.cyberciti.biz/faq/unix-linux-iterate-over-a-variable-range-of-numbers-in-bash/
+- http://faculty.salina.k-state.edu/tim/unix_sg/shell/variables.html
 
 Funcionalidades do Latex
 
