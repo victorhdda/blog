@@ -16,5 +16,6 @@ Programas iniciais para uma instalação linux
 - git
 - htop
 - aptitude
+- Funcionamento traccar
 
 
