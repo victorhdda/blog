@@ -17,5 +17,5 @@ Programas iniciais para uma instalação linux
 - htop
 - aptitude
 - Funcionamento traccar
-
+teste
 
