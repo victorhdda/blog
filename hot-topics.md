@@ -60,3 +60,5 @@ https://www.networkinghowtos.com/howto/adding-persistent-static-routes-on-ubuntu
 https://cloudcone.com/docs/how-to-install-zabbix-agent-on-centos-7-and-ubuntu-18-04/
 
 https://www.binarytides.com/linux-commands-monitor-network/
+
+
