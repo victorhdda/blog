@@ -40,12 +40,15 @@ Programas iniciais para uma instalação linux
 - speedtest-cli
 - zabbix (config:  vim /etc/zabbix/zabbix_agentd.conf (Server=IP address of Zabbix Server)  (Hostname=Hostname of client PC) (systemctl restart zabbix-agent) (systemctl enable zabbix-agent) (systemctl status zabbix-agent)
 - vnstat: vnstat -l -i eth0
+- parallel (descrever funcionalidade)
 
 
 sudo timedatectl set-timezone 'America/Sao_Paulo'
 
 
 Funcionamento traccar
+
+Falar sobre programação de shell script e argoritmos com ele
 
 Algum banco de dados
 
@@ -60,5 +63,15 @@ https://www.networkinghowtos.com/howto/adding-persistent-static-routes-on-ubuntu
 https://cloudcone.com/docs/how-to-install-zabbix-agent-on-centos-7-and-ubuntu-18-04/
 
 https://www.binarytides.com/linux-commands-monitor-network/
+
+https://www.gnu.org/software/parallel/parallel_tutorial.html#Controlling-the-output
+
+https://www.gnu.org/software/bash/manual/html_node/GNU-Parallel.html
+
+https://www.msi.umn.edu/support/faq/how-can-i-use-gnu-parallel-run-lot-commands-parallel
+
+https://blog.stackpath.com/glossary-cwnd-and-rwnd/
+
+http://blog.evaldojunior.com.br/aulas/blog/shell%20script/2011/05/08/shell-script-parte-2-controle-de-fluxo.html
 
 
