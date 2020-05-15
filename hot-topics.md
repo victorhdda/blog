@@ -42,6 +42,8 @@ Programas iniciais para uma instalação linux
 - vnstat: vnstat -l -i eth0
 - parallel (descrever funcionalidade)
 
+Conversões de vídeo, qual codec e resoluçes usar, bem como programas e comandos.
+
 
 sudo timedatectl set-timezone 'America/Sao_Paulo'
 
