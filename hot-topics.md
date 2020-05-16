@@ -40,7 +40,7 @@ Programas iniciais para uma instalação linux
 - speedtest-cli
 - zabbix (config:  vim /etc/zabbix/zabbix_agentd.conf (Server=IP address of Zabbix Server)  (Hostname=Hostname of client PC) (systemctl restart zabbix-agent) (systemctl enable zabbix-agent) (systemctl status zabbix-agent)
 - vnstat: vnstat -l -i eth0
-- parallel (descrever funcionalidade)
+- parallel (descrever funcionalidade) - criar um scaner baseado em parallel
 
 Conversões de vídeo, qual codec e resoluçes usar, bem como programas e comandos.
 
