@@ -44,6 +44,7 @@ Programas iniciais para uma instalação linux
 
 Conversões de vídeo, qual codec e resoluçes usar, bem como programas e comandos.
 
+Tratar imagens RAW minimamente com soluções open source
 
 sudo timedatectl set-timezone 'America/Sao_Paulo'
 
