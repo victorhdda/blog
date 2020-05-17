@@ -78,6 +78,6 @@ http://blog.evaldojunior.com.br/aulas/blog/shell%20script/2011/05/08/shell-scrip
 
 ~~https://www.msi.umn.edu/support/faq/how-can-i-use-gnu-parallel-run-lot-commands-parallel~~
 
-
+https://www.shellhacks.com/tune-command-line-history-bash/
 
 
