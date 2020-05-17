@@ -38,6 +38,7 @@ Programas iniciais para uma instalação linux
 - registar data e hora no histórico do terminar: echo 'export HISTTIMEFORMAT="%d/%m/%y %T "' >> ~/.bash_profile
 - ansible
 - speedtest-cli
+- prips
 - zabbix (config:  vim /etc/zabbix/zabbix_agentd.conf (Server=IP address of Zabbix Server)  (Hostname=Hostname of client PC) (systemctl restart zabbix-agent) (systemctl enable zabbix-agent) (systemctl status zabbix-agent)
 - vnstat: vnstat -l -i eth0
 - ~~parallel (descrever funcionalidade)~~ - criar um scaner baseado em parallel
