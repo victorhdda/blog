@@ -48,7 +48,7 @@ Na plataforma do GCloud foi necessário criar uma regra para abertura da porta 4
 * Implementar compilador latex no hexo
 
 # References
-* [Hexo] <https://hexo.io/>
+* [Hexo] <https://hexo.io/> # <https://fabio.recife.br/blog/2019/05/13/Como-adicionar-rss-feed-no-Hexo/> # <http://www.codeblocq.com/2015/12/Add-an-RSS-feed-to-your-hexo-blog/>
 * [Hexo - contêiner] <https://github.com/davyyy/docker-hexo>
 * [Markdown] <https://dillinger.io/> <https://stackedit.io/> # <https://daringfireball.net/projects/markdown/>
 * [Diagramas] <https://mermaidjs.github.io/>
