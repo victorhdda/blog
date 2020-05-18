@@ -38,9 +38,16 @@ Programas iniciais para uma instalação linux
 - registar data e hora no histórico do terminar: echo 'export HISTTIMEFORMAT="%d/%m/%y %T "' >> ~/.bash_profile
 - ansible
 - speedtest-cli
+- software-properties-common
+- curl
+- crontab
 - prips
+- 7zip
 - zabbix (config:  vim /etc/zabbix/zabbix_agentd.conf (Server=IP address of Zabbix Server)  (Hostname=Hostname of client PC) (systemctl restart zabbix-agent) (systemctl enable zabbix-agent) (systemctl status zabbix-agent)
 - vnstat: vnstat -l -i eth0
+- bash-completion: https://www.howtoforge.com/how-to-add-bash-completion-in-debian
+- docker : https://docs.docker.com/engine/install/debian/#installation-methods (debian)
+- 
 - ~~parallel (descrever funcionalidade)~~ - criar um scaner baseado em parallel
 
 Conversões de vídeo, qual codec e resoluçes usar, bem como programas e comandos.
