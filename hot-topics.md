@@ -40,9 +40,11 @@ Programas iniciais para uma instalação linux
 - speedtest-cli
 - software-properties-common
 - curl
+- rename
 - crontab
 - prips
 - 7zip
+- unattended-upgrades apt-listchanges: https://wiki.debian.org/UnattendedUpgrades
 - zabbix (config:  vim /etc/zabbix/zabbix_agentd.conf (Server=IP address of Zabbix Server)  (Hostname=Hostname of client PC) (systemctl restart zabbix-agent) (systemctl enable zabbix-agent) (systemctl status zabbix-agent)
 - vnstat: vnstat -l -i eth0
 - bash-completion: https://www.howtoforge.com/how-to-add-bash-completion-in-debian
