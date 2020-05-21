@@ -70,11 +70,24 @@ Wordpress como blog/página web/CMS
 
 Comandos
 
+echo 'export HISTTIMEFORMAT="%d/%m/%y %T "' >> ~/.bashrc
 
-sudo aptitude install nmap iperf3 git htop screen dnsutils ethtool ansible speedtest-cli prips vnstat speedometer bash-completion software-properties-common curl bash-completion aptitude wget
+hostnamectl set-hostname
+
+sudo timedatectl set-timezone 'America/Sao_Paulo'
+
+sudo apt-get update && sudo apt-get upgrade
+
+sudo apt-get install aptitude nmap iperf3 git htop screen dnsutils ethtool ansible speedtest-cli prips vnstat speedometer bash-completion software-properties-common curl bash-completion aptitude wget unzip
+
+
+sudo apt-get install unattended-upgrades apt-listchanges
+
+instalar docker
+https://docs.docker.com/engine/install/debian/
 
 sudo apt-get install     apt-transport-https     ca-certificates     curl     gnupg-agent     software-properties-common
-sudo timedatectl set-timezone 'America/Sao_Paulo'
+
 
 sudo nano /etc/rsyslog.d/90-google.conf
   148  17/05/20 22:13:38 sudo nano /etc/rsyslog.conf
@@ -86,7 +99,7 @@ sudo apt-get install unattended-upgrades apt-listchanges
 sudo nano /etc/apt/apt.conf.d/20auto-upgrades
 
 
-echo 'export HISTTIMEFORMAT="%d/%m/%y %T "' >> ~/.bashrc
+
 
 
 
